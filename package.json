@@ -1,0 +1,12 @@
+{
+  "name": "get_orcid",
+  "version": "1.0.0",
+  "description": "Extract and reformat publication records for a set of ORCID ids",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-fetch ./lib/format.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
