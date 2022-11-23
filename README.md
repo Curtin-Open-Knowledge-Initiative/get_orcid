@@ -1,9 +1,6 @@
 # get_orcid
 
-Given a set of ORCID ids, get publications.
-
-You'll need [NodeJS](https://nodejs.org/en/download/).
-  
+Given a set of ORCID ids, get publications. You'll need [NodeJS](https://nodejs.org/en/download/).
 
 ```bash
 # install
