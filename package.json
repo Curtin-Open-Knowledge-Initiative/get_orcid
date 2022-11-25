@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node --experimental-fetch ./lib/format.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["orcid"],
+  "author": "<julian.tonti@gmail.com>",
+  "license": "MIT"
 }

@@ -7,7 +7,7 @@ Given a set of ORCID ids, get publications. You'll need [NodeJS](https://nodejs.
 git clone https://github.com/JulianTonti/get_orcid.git && cd get_orcid
 
 # test / example
-node --experimental-fetch ./data/test.txt ./data
+node --experimental-fetch index.js ./data/test.txt ./data
 
 # or
 npm run test
@@ -34,6 +34,6 @@ works.jsonl
 works2.html
 ```
 
-The `--experimental-fetch` is required until `fetch()` becomes standard.
+The `--experimental-fetch` flag is required until `fetch()` becomes standard.
 
 Any issues, reach me at <julian.tonti@gmail.com>
