@@ -4,7 +4,7 @@ Given a set of ORCID ids, get publications. You'll need [NodeJS](https://nodejs.
 
 ```bash
 # install
-git clone https://github.com/JulianTonti/get_orcid.git && cd get_orcid
+git clone https://github.com/Curtin-Open-Knowledge-Initiative/get_orcid.git && cd get_orcid
 
 # test / example
 node --experimental-fetch index.js ./data/test.txt ./data
