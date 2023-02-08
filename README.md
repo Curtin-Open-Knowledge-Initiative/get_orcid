@@ -36,4 +36,4 @@ works2.html
 
 The `--experimental-fetch` flag is required until `fetch()` becomes standard.
 
-Any issues, reach me at <julian.tonti@gmail.com>
+Any issues, reach me at <julian.tonti-filippini@curtin.edu.au>
