@@ -4,7 +4,7 @@
   "description": "Extract and reformat publication records for a set of ORCID ids",
   "main": "index.js",
   "scripts": {
-    "test": "node --experimental-fetch ./lib/format.js"
+    "test": "node ./lib/format.js"
   },
   "keywords": ["orcid"],
   "author": "<julian.tonti@gmail.com>",
